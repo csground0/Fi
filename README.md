@@ -1,0 +1,2 @@
+# Fi
+Exercise in python
